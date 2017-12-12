@@ -1,4 +1,4 @@
+<b>Syone OpenSHift Webinar!</b>
 <?php
-  <b>Syone OpenSHift Webinar!</b>
   phpinfo();
 ?>
