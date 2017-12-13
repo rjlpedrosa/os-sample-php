@@ -1,1 +1,1 @@
-<b>Hello Syone Openshift Webinar!</b>
+<b>Hello SAP Leonardo IOT!</b>
