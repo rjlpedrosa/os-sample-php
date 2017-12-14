@@ -1,1 +1,3 @@
-<b>Hello SAP Leonardo IOT!</b>
+<?php
+    phpinfo();
+?>
